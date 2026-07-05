@@ -1,0 +1,79 @@
+{
+    "criteria": {
+        "has_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:slabs"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+        "reblock:acacia_planks_from_slabs",
+        "reblock:andesite_from_slabs",
+        "reblock:bamboo_mosaic_from_slabs",
+        "reblock:bamboo_planks_from_slabs",
+        "reblock:birch_planks_from_slabs",
+        "reblock:blackstone_from_slabs",
+        "reblock:bricks_from_slabs",
+        "reblock:cherry_planks_from_slabs",
+        "reblock:cobbled_deepslate_from_slabs",
+        "reblock:cobblestone_from_slabs",
+        "reblock:crimson_planks_from_slabs",
+        "reblock:cut_copper_from_slabs",
+        "reblock:cut_red_sandstone_from_slabs",
+        "reblock:cut_sandstone_from_slabs",
+        "reblock:dark_oak_planks_from_slabs",
+        "reblock:dark_prismarine_from_slabs",
+        "reblock:deepslate_bricks_from_slabs",
+        "reblock:deepslate_tiles_from_slabs",
+        "reblock:diorite_from_slabs",
+        "reblock:end_stone_bricks_from_slabs",
+        "reblock:exposed_cut_copper_from_slabs",
+        "reblock:granite_from_slabs",
+        "reblock:jungle_planks_from_slabs",
+        "reblock:mangrove_planks_from_slabs",
+        "reblock:mossy_cobblestone_from_slabs",
+        "reblock:mossy_stone_bricks_from_slabs",
+        "reblock:mud_bricks_from_slabs",
+        "reblock:nether_bricks_from_slabs",
+        "reblock:oak_planks_from_slabs",
+        "reblock:oxidized_cut_copper_from_slabs",
+        "reblock:pale_oak_planks_from_slabs",
+        "reblock:polished_andesite_from_slabs",
+        "reblock:polished_blackstone_bricks_from_slabs",
+        "reblock:polished_blackstone_from_slabs",
+        "reblock:polished_deepslate_from_slabs",
+        "reblock:polished_diorite_from_slabs",
+        "reblock:polished_granite_from_slabs",
+        "reblock:polished_tuff_from_slabs",
+        "reblock:prismarine_bricks_from_slabs",
+        "reblock:prismarine_from_slabs",
+        "reblock:purpur_block_from_slabs",
+        "reblock:quartz_block_from_slabs",
+        "reblock:red_nether_bricks_from_slabs",
+        "reblock:red_sandstone_from_slabs",
+        "reblock:resin_bricks_from_slabs",
+        "reblock:sandstone_from_slabs",
+        "reblock:smooth_quartz_from_slabs",
+        "reblock:smooth_red_sandstone_from_slabs",
+        "reblock:smooth_sandstone_from_slabs",
+        "reblock:smooth_stone_from_slabs",
+        "reblock:spruce_planks_from_slabs",
+        "reblock:stone_bricks_from_slabs",
+        "reblock:stone_from_slabs",
+        "reblock:tuff_bricks_from_slabs",
+        "reblock:tuff_from_slabs",
+        "reblock:warped_planks_from_slabs",
+        "reblock:waxed_cut_copper_from_slabs",
+        "reblock:waxed_exposed_cut_copper_from_slabs",
+        "reblock:waxed_oxidized_cut_copper_from_slabs",
+        "reblock:waxed_weathered_cut_copper_from_slabs",
+        "reblock:weathered_cut_copper_from_slabs"
+        ]
+    }
+}

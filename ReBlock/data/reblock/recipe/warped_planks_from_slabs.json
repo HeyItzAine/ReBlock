@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "reblock",
+  "pattern": [
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": "minecraft:warped_slab"
+  },
+  "result": {
+    "id": "minecraft:warped_planks",
+    "count": 1
+  }
+}

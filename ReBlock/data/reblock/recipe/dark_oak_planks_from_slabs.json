@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "reblock",
+  "pattern": [
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": "minecraft:dark_oak_slab"
+  },
+  "result": {
+    "id": "minecraft:dark_oak_planks",
+    "count": 1
+  }
+}
